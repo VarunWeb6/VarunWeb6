@@ -61,7 +61,7 @@
     
 
   <tr>
-    <td align = "center>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=varunweb6&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     </td>
       <td>
