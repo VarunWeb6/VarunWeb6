@@ -65,7 +65,6 @@
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunweb6&theme=tokyonight" alt="GitHub Streak"/>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=varunweb6&layout=compact&theme=tokyonight" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -75,6 +74,7 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=varunweb6&layout=compact&theme=tokyonight" alt="Top Languages"/>
     <img src="https://github-profile-trophy.vercel.app/?username=varunweb6&theme=algolia&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
   </a>
 </p>
