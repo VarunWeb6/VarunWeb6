@@ -15,7 +15,7 @@
 ### 🚀 About Me
 - 🔬 I'm currently working on [Iris-Android](https://github.com/nerve-sparks/iris_android)  
 - 🌱 I'm currently learning **Android & Android Studio**  
-- 👯 Looking to collaborate on innovative projects.  
+- 👯 Looking to collaborate with innovative projects.  
 - 💬 Ask me about **Python, JavaScript, Node.js, React, Svelte, Spring Boot**  
 - 👨‍💻 How to reach me: **vvarunsharma64@gmail.com**  
 - 🌐 Check out my portfolio: [Portfolio](https://varunweb6.github.io/my-portfolio/)  
