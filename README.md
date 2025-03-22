@@ -18,7 +18,7 @@
 - 👯 Looking to collaborate with innovative projects.  
 - 💬 Ask me about **Python, JavaScript, Node.js, React, Svelte, Spring Boot**  
 - 👨‍💻 How to reach me: **vvarunsharma64@gmail.com**  
-- 🌐 Check out my portfolio: [Portfolio](https://varunweb6.github.io/my-portfolio/)  
+- 🌐 Check out my portfolio: [Portfolio](https://portfolio-vs-seven.vercel.app/)  
 
 ---
 
